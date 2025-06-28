@@ -1,0 +1,59 @@
+=============================================================
+FC-Tweak Automated logfile for data file: more_fuel_crank.dat
+Tweaked on: 01-27-2025  20:58:09
+=============================================================
+Car configuration details
+
+RX7 model:               FD3S
+Flow mods & porting:     Intake,DP,RC,CB,LSP
+Primary Injectors type:  550 cc/min
+Secondary Injectors:     1650 cc/min
+Boost sensor type:       Stock unit
+Thermostat type: 73-77øC (Low Temp B)
+ISC (IAC) valve status:  Enabled 
+Ignition type:           Stock ignition system 
+Fuel Octane Rating:      95 RON / 91 AKI 
+Turbo setup:             Single/Non sequential 
+IAT sensor location:     Stock location 
+Fuel Rail Temp sensor:   Deleted 
+Water Injection System:  No 
+Oil metering method:     Premix
+Boost Limiter:           Power FC
+Lower intake manifold:   Stock
+Flywheel type:           Lightweight
+Turbo heat shields:      Installed
+Radiator size:           Stock
+Intercooler type:        SMIC
+
+Two step launch control: Disabled
+Fuel Map Certification:  Not certified - may not be safe to run on boost!
+
+================================
+Tweaks applied on scan number: 1
+================================
+=============
+Base Fuel Map
+=============
+(1) Corrected Sharp drop in fuel at P: 4 N: 6
+(2) Enriched Lean fuel cell at P: 5 N: 1
+(3) Enriched Lean fuel cell at P: 5 N: 2
+(4) Enriched Lean fuel cell at P: 5 N: 3
+(5) Enriched Lean fuel cell at P: 5 N: 4
+(6) Enriched Lean fuel cell at P: 5 N: 5
+(7) Enriched Lean fuel cell at P: 8 N: 1
+(8) Corrected Sharp drop in fuel at P: 8 N: 2
+(9) Corrected Sharp drop in fuel at P: 9 N: 2
+(10) Corrected Sharp drop in fuel at P: 10 N: 2
+(11) Corrected Sharp drop in fuel at P: 11 N: 2
+(12) Corrected Sharp drop in fuel at P: 12 N: 2
+(13) Enriched Lean fuel cell at P: 13 N: 1
+
+================================
+Idling, decel control & Cranking
+================================
+(1) Optimized cranking fuel factor @Temp=-10øC
+
+===============================================
+Total number of applied tweaks on this scan: 14
+===============================================
+
